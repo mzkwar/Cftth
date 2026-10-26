@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كاميرا FTTH الميدانية</string>
+    <string name="app_subtitle">تصوير الأعطال مع الإحداثيات</string>
+
+    <string name="cd_menu">القائمة</string>
+    <string name="cd_flash">المصباح</string>
+    <string name="cd_glare">منع التوهج</string>
+    <string name="cd_template">قالب العلامة المائية</string>
+    <string name="cd_flip">تبديل الكاميرا</string>
+    <string name="cd_gallery">اختيار صورة من المعرض</string>
+    <string name="cd_shutter">التقاط</string>
+    <string name="cd_back">رجوع</string>
+
+    <string name="label_fat">رقم الـ FAT</string>
+    <string name="label_zone">الـ ZONE</string>
+    <string name="hint_fat">FAT-12</string>
+    <string name="hint_zone">Zone 3</string>
+
+    <string name="menu_gallery">اختيار صورة من المعرض</string>
+    <string name="menu_about_us">من نحن</string>
+    <string name="menu_about_app">حول التطبيق</string>
+    <string name="menu_exit">خروج</string>
+
+    <string name="about_title">حول التطبيق</string>
+    <string name="about_text">تطبيق مجاني لفنيي الصيانة في الكيبل الضوئي ftth للتصوير مع الاحداثيات لتسهيل وصول كوادر الفنيين لمكان الخلل.\nللإستفسار: 07814933557</string>
+    <string name="ok">حسناً</string>
+
+    <string name="perm_needed">يحتاج التطبيق إلى صلاحية الكاميرا للعمل.\nاضغط هنا لفتح الإعدادات ومنح الصلاحية.</string>
+
+    <string name="gallery_title">قارئ بيانات الصورة</string>
+    <string name="gallery_empty">اختر صورة من المعرض لقراءة موقعها وتاريخها</string>
+    <string name="btn_navigate">الذهاب للموقع</string>
+    <string name="btn_pick">اختيار صورة</string>
+    <string name="btn_copy">نسخ الإحداثيات</string>
+</resources>
